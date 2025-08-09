@@ -31,7 +31,7 @@
 </p>
 
 <center>
-  
+whats app pairing  
   ## 🚀 DEPLOYMENT OPTIONS 
 </center>
 
@@ -59,4 +59,4 @@
 </div>
 <center>
   
-> `POWERED BY MR FRANK OFC 🇿🇼` </center>
+> `POWERED BY KING OF CHAOS🇿🇼` </center>
